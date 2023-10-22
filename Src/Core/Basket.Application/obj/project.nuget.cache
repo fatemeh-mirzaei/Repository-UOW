@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tavqmYm971F7uqO7seS9RSbiK3hvQBRk1dxXkudMi+a3V8G+U9JOEvkcelQ1oR4vqqNmQo4YbZlvBWg9Er2Wfg==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\UnitOfWork,Repository\\Basket\\Src\\Core\\Basket.Application\\Basket.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
